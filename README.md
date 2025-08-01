@@ -9,4 +9,4 @@ Ultrasonik Mesafe Sensörü
 Ardiuno 
 Güç için pil yuvası ve pil
 
-Not:Paylaştığım kodu ardiunoya yükleyin ve devre şemasına göre yapın bağlantıları çalıştığını görüceksiniz pil yuvasının eksi kısmını gnd artı kısmını 5v'ye bağlayınız
+Not:Ardiuno İde uygulamasından hangi porta bağladıysanız ardiunoyu seçin verdiğim kodu ardiunoya yükleyin ve devre şemasına göre yapın bağlantıları çalıştığını görüceksiniz pil yuvasının eksi kısmını gnd artı kısmını 5v'ye bağlayınız
